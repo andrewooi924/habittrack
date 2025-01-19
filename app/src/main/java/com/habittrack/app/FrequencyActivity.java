@@ -25,7 +25,6 @@ public class FrequencyActivity extends AppCompatActivity {
 
     private static final String PREFS_NAME = "HabitPrefs";
     private static final String KEY_FREQUENCY = "selectedFrequency";
-    private static final String KEY_FREQUENCY_VALUE = "frequencyValue";
     private LinearLayout radioGroupFrequency;
     private LinearLayout layoutWeeklyMonthly;
     private TextView tvFrequencyValue;
@@ -65,7 +64,6 @@ public class FrequencyActivity extends AppCompatActivity {
 
         SharedPreferences sharedPreferences = getSharedPreferences(PREFS_NAME, MODE_PRIVATE);
         String savedFrequency = sharedPreferences.getString(KEY_FREQUENCY, "None");
-        currentFrequencyValue = sharedPreferences.getInt(KEY_FREQUENCY_VALUE, 1);
 
         clearAllTickIcons();
         setInitialSelection(savedFrequency);
