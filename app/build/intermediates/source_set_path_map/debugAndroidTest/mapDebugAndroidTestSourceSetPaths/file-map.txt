@@ -1,5 +1,0 @@
-com.habittrack.app.test.app-core-1.6.1-0 /Users/andrewooi/.gradle/caches/8.9/transforms/2406499cc12af484baa8e529010ba258/transformed/core-1.6.1/res
-com.habittrack.app.test.app-androidTest-1 /Users/andrewooi/AndroidStudioProjects/HabitTrack/app/build/generated/res/resValues/androidTest/debug
-com.habittrack.app.test.app-mergeDebugAndroidTestResources-2 /Users/andrewooi/AndroidStudioProjects/HabitTrack/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.habittrack.app.test.app-mergeDebugAndroidTestResources-3 /Users/andrewooi/AndroidStudioProjects/HabitTrack/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.habittrack.app.test.app-debugAndroidTest-4 /Users/andrewooi/AndroidStudioProjects/HabitTrack/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
